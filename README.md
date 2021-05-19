@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a little speck of dust in this cosmos trying to learn new Technogies. I am greatly interested in Data Science and development. I have been working on various Data Science Projects and Web Development Projects since 2018. I am highly motivated to contribute to Real World projects.
+
+### Contact me for: 
+- [x] Collaborating on some interesting project.
+- [x] Grabbing Coffee
+- [x] Freelancing Projects.
+- [x] talking about life 
 <!--
 **Arushacked/Arushacked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
