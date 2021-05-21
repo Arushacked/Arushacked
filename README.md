@@ -1,23 +1,25 @@
-### Hi there 👋
+## Hi there 👋
 
-I am a little speck of dust in this cosmos trying to learn new Technogies. I am greatly interested in Data Science and development. I have been working on various Data Science Projects and Web Development Projects since 2018. I am highly motivated to contribute to Real World projects.
+## About Aryan Agarwal
 
-### Contact me for: 
-- [x] Collaborating on some interesting project.
-- [x] Grabbing Coffee
-- [x] Freelancing Projects.
-- [x] talking about life 
-<!--
-**Arushacked/Arushacked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I am greatly interested in *Data Science, Development and Finance.* </span>
+</br>
 
-Here are some ideas to get you started:
+🕓 I have been working on various Data Science Projects and Web Development Projects since 2018. 
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😃 I am highly motivated to learn and experience new things.
+</br>
+
+## Catch me for: 
+💻 Collaborating on some interesting project.
+</br>
+
+☕ Grabbing Coffee
+</br>
+
+✴  Freelancing Projects. 
+</br>
+
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Arushacked.Arushacked)
