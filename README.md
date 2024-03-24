@@ -2,6 +2,8 @@
 
 ## About Aryan Agarwal
 
+💲 I am working as a Quant. Reseatcher at 26 miles capital since 2022. 
+
 💻 I am greatly interested in *Data Science, Development and Finance.* </span>
 </br>
 
